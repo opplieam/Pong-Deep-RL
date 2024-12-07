@@ -1,6 +1,6 @@
-#### AI vs Pong - Deep Reinforcement Learning
+## AI vs Pong - Deep Reinforcement Learning
 
-Youtube
+### Youtube
 
 
 [![Result](https://img.youtube.com/vi/jTl3cP0B4eo/0.jpg)](https://www.youtube.com/watch?v=jTl3cP0B4eo)
